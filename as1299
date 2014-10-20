@@ -1,0 +1,311 @@
++ telia
+menu = Telia
+title = Telia Sonera IC
+host = 62.115.37.45
+#alerts = bigloss
+
+++ NorthAmerica
+menu = North America
+title = Telia North America via LAX
+host =	/telia/NorthAmerica/ash /telia/NorthAmerica/atl /telia/NorthAmerica/bos \
+	/telia/NorthAmerica/buf /telia/NorthAmerica/clt /telia/NorthAmerica/chi \
+	/telia/NorthAmerica/cleveland /telia/NorthAmerica/dal /telia/NorthAmerica/den \
+	/telia/NorthAmerica/mci /telia/NorthAmerica/mia /telia/NorthAmerica/jfk \
+	/telia/NorthAmerica/phx /telia/NorthAmerica/sjc /telia/NorthAmerica/sea \
+	/telia/NorthAmerica/tor
+
++++ ash
+menu = Ashburn, VA
+title = Ashburn, VA
+host = 213.248.80.247
+
++++ atl
+menu = Atlanta, GA
+title = Atlanta, GA
+host = 213.248.80.249
+
++++ bos
+menu = Boston, MA
+title = Boston, MA
+host = 80.91.241.26
+
++++ buf
+menu = Buffalo, NY
+title = Buffalo, NY
+host = 80.91.255.154
+
++++ clt
+menu = Charlotte, NC
+title = Charlotte, NC
+host = 80.91.255.11
+
++++ chi
+menu = Chicago, IL
+title = Chicago, IL
+host = 80.91.255.236
+
++++ cleveland
+menu = Cleveland, OH
+title = Cleveland, OH
+host = 80.91.255.156
+
++++ dal
+menu = Dallas, TX
+title = Dallas, TX
+host = 213.248.80.251
+
++++ den
+menu = Denver, CO
+title = Denver, CO
+host = 80.91.255.177
+
++++ mci
+menu = Kansas City, MO
+title = Kansas City, MO
+host = 80.91.255.199
+
+#+++ lax
+#menu = Los Angeles, CA
+#title = Los Angeles, CA
+#host = 213.248.80.253
+
++++ mia
+menu = Miami, FL
+title = Miami, FL
+host = 213.248.81.254
+
++++ jfk
+menu = New York, NY
+title = New York, NY
+host = 80.91.255.50
+
++++ phx
+menu = Phoenix, AZ
+title = Phoenix, AZ
+host = 80.91.255.181
+
++++ sjc
+menu = San Jose, CA
+title = San Jose, CA
+host = 213.248.80.244
+
++++ sea
+menu = Seattle, WA
+title = Seattle, WA
+host = 80.91.255.229
+
++++ tor
+menu = Toronto, Canada
+title = Toronto, Canada
+host = 80.91.241.3
+
+++ Europe
+menu = Europe
+title = Telia Europe via LAX
+host =	/telia/Europe/ams /telia/Europe/bcn /telia/Europe/ber \
+	/telia/Europe/bts /telia/Europe/bru /telia/Europe/bbu \
+	/telia/Europe/bud /telia/Europe/cgn /telia/Europe/cph \
+	/telia/Europe/dub /telia/Europe/dus /telia/Europe/fra \
+	/telia/Europe/ham /telia/Europe/hel /telia/Europe/kun \
+	/telia/Europe/kbp /telia/Europe/lon /telia/Europe/mad \
+	/telia/Europe/mrs /telia/Europe/mxp /telia/Europe/mow \
+	/telia/Europe/muc /telia/Europe/osl /telia/Europe/cdg \
+	/telia/Europe/poz /telia/Europe/prg /telia/Europe/rix \
+	/telia/Europe/sof /telia/Europe/arn /telia/Europe/led \
+	/telia/Europe/tll /telia/Europe/vlc /telia/Europe/vie \
+	/telia/Europe/vno /telia/Europe/waw /telia/Europe/zrh
+
++++ ams
+menu = Amsterdam, Netherlands
+title = Amsterda, Netherlands
+host = 80.91.255.238
+
++++ bcn
+menu = Barcelona, Spain
+title = Barcelona, Spain
+host = 80.91.255.52
+
++++ ber
+menu = Berlin, Germany
+title = Berlin, Germany
+host = 80.91.255.8
+
++++ bts
+menu = Bratislava, Slovakia
+title = Bratislava, Slovakia
+host = 213.248.76.254
+
++++ bru
+menu = Brussels, Belgium
+title = Brussels, Belgium
+host = 80.91.241.10
+
++++ bbu
+menu = Bucarest, Romania
+title = Bucarest, Romania
+host = 80.91.255.99
+
++++ bud
+menu = Budapest, Hungary
+title = Budapest, Hungary
+host = 80.91.255.123
+
++++ cgn
+menu = Cologne, Germany
+title = Cologne, Germany
+host = 80.91.255.241
+
++++ cph
+menu = Copenhagen, Denmark
+title = Copenhagen, Denmark
+host = 80.91.255.121
+
++++ dub
+menu = Dublin, Ireland
+title = Dublin, Ireland
+host = 80.91.255.87
+
++++ dus
+menu = Dusseldorf, Germany
+title = Dusseldorf, Germany
+host = 80.91.255.18
+
++++ fra
+menu = Frankfurt, Germany
+title = Frankfurt, Germany
+host = 80.91.255.103
+
++++ ham
+menu = Hamburg, Germany
+title = Hamburg, Germany
+host = 80.91.255.101
+
++++ hel
+menu = Helsinki, Finland
+title = Helsinki, Finland
+host = 80.91.255.139
+
++++ kun
+menu = Kaunas, Lithuania
+title = Kaunas, Lithuania
+host = 80.91.255.211
+
++++ kbp
+menu = Kiev, Ukraine
+title = Kiev, Ukraine
+host = 80.91.255.24
+
++++ lon
+menu = London, England
+title = London, England
+host = 80.91.255.80
+
++++ mad
+menu = Madrid, Spain
+title = Madrid, Spain
+host = 80.91.255.171
+
++++ mrs
+menu = Marseille, France
+title = Marseille, France
+host = 80.91.255.66
+
++++ mxp
+menu = Milan, Italy
+title = Milan, Italy
+host = 80.91.255.219
+
++++ mow
+menu = Moscow, Russia
+title = Moscow, Russia
+host = 80.91.255.25
+
++++ muc
+menu = Munich, Germany
+title = Munich, Germany
+host = 80.91.255.217
+
++++ osl
+menu = Oslo, Norway
+title = Oslo, Norway
+host = 80.91.255.203
+
++++ cdg
+menu = Paris, France
+title = Paris, France
+host = 80.91.255.5
+
++++ poz
+menu = Posnan, Poland
+title = Posnan, Poland
+host = 80.91.241.8
+
++++ prg
+menu = Prague, Czech Republic
+title = Prague, Czech Republic
+host = 80.91.255.205
+
++++ rix
+menu = Riga, Latvia
+title = Riga, Latvia
+host = 80.91.255.93
+
++++ sof
+menu = Sofia, Bulgaria
+title = Sofia, Bulgaria
+host = 80.91.255.190
+
++++ arn
+menu = Stockholm, Sweden
+title = Stockholm, Sweden
+host = 80.91.255.3
+
++++ led
+menu = St. Petersburg, Russia
+title = St. Petersburg, Russia
+host = 80.91.255.187
+
++++ tll
+menu = Tallin, Estonia
+title = Tallin, Estonia
+host = 80.91.255.245
+
++++ vlc
+menu = Valencia, Spain
+title = Valencia, Spain
+host = 80.91.255.68
+
++++ vie
+menu = Vienna, Austria
+title = Vienna, Austria
+host = 80.91.255.135
+
++++ vno
+menu = Vilnius, Lithuania
+title = Vilnius, Lithuania
+host = 80.91.255.209
+
++++ waw
+menu = Warsaw, Poland
+title = Warsaw, Poland
+host = 80.91.255.117
+
++++ zrh
+menu = Zurich, Switzerland
+title = Zurich, Switzerland
+host = 80.91.255.252
+
+++ Asia
+menu = Asia
+title = Telia Asia via LAX
+host =	/telia/Asia/hkg /telia/Asia/sin
+
++++ hkg
+menu = Hong Kong, Hong Kong
+title = Hong Kong, Hong Kong
+host = 80.91.255.195
+
++++ sin
+menu = Singapore, Singapore
+title = Singapore, Singapore
+host = 80.91.255.221

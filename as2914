@@ -1,0 +1,254 @@
++ ntt
+
+menu = NTT
+title = NTT Communications
+alerts = bigloss
+host = 198.172.90.74
+
+++ NorthAmerica
+
+menu = North America
+title = NTT North America via LAX
+#alerts = bigloss,someloss,startloss
+host =  /ntt/NorthAmerica/ash /ntt/NorthAmerica/atl /ntt/NorthAmerica/chi \
+        /ntt/NorthAmerica/dal /ntt/NorthAmerica/hou \
+        /ntt/NorthAmerica/mil /ntt/NorthAmerica/jfk \
+        /ntt/NorthAmerica/pao /ntt/NorthAmerica/sjc /ntt/NorthAmerica/slc \
+        /ntt/NorthAmerica/sea
+
++++ ash
+menu = Ashburn, VA
+title = Ashburn, VA
+host = 129.250.2.57
+
++++ atl
+menu = Atlanta, GA
+title = Atlanta, GA
+host = 129.250.5.189
+
++++ chi
+menu = Chicago, IL
+title = Chicago, IL
+host = 129.250.0.10
+
++++ dal
+menu = Dallas, TX
+title = Dallas, TX
+host = 129.250.0.44
+
++++ hou
+menu = Houston, TX
+title = Houston, TX
+host = 129.250.5.62
+
+#+++ lax
+#menu = Los Angeles, CA
+#title = Los Angeles, CA
+#host = 198.172.90.74
+
++++ mia
+menu = Miami, FL
+title = Miami, FL
+host = 129.250.0.15
+
++++ mil
+menu = Milpitas, CA
+title = Milpitas, CA
+host = 129.250.0.98
+
++++ jfk
+menu = New York, NY
+title = New York, NY
+host = 129.250.0.83
+
++++ pao
+menu = Palo Alto, CA
+title = Palo Alto, CA
+host = 129.250.0.1
+
++++ sjc
+menu = San Jose, CA
+title = San Jose, CA
+host = 129.250.0.96
+
++++ slc
+menu = Santa Clara, CA
+title = Santa Clara, CA
+host = 129.250.6.78
+
++++ sea
+menu = Seattle, WA
+title = Seattle, WA
+host = 129.250.0.116
+
++++ iad
+menu = Sterling, VA
+title = Sterling, VA
+host = 129.250.2.101
+
+++ SouthAmerica
+menu = South America
+title = NTT South America via LAX
+host = 	/ntt/SouthAmerica/gru
+
++++ gru
+menu = Sao Paulo - BR
+title = Sao Paulo - BR
+host = 129.250.3.218
+
+++ Europe
+menu = Europe
+title = NTT Europe via LAX
+host =  /ntt/Europe/ams /ntt/Europe/bcn /ntt/Europe/bru \
+        /ntt/Europe/bbu /ntt/Europe/bud /ntt/Europe/dus \
+        /ntt/Europe/fra /ntt/Europe/lon /ntt/Europe/mad \
+        /ntt/Europe/mxp /ntt/Europe/muc /ntt/Europe/cdg \
+        /ntt/Europe/sof /ntt/Europe/arn /ntt/Europe/vlc \
+        /ntt/Europe/vie /ntt/Europe/waw
+
++++ ams
+menu = Amsterdam - NL
+title = Amsterdam - NL
+host = 129.250.0.75
+
++++ bcn
+menu = Barcelona - ES
+title = Barcelona - ES
+host = 129.250.2.35
+
++++ bru
+menu = Brussels - BE
+title = Brussels - BE
+host = 129.250.4.210
+
++++ bbu
+menu = Bucharest - RO
+title = Bucharest - RO
+host = 129.250.3.235
+
++++ bud
+menu = Budapest - HU
+title = Budapest - HU
+host = 129.250.3.63
+
++++ dus
+menu = Dusseldorf - DE
+title = Dusseldorf - DE
+host = 129.250.5.147
+
++++ fra
+menu = Frankfurt - DE
+title = Frankfurt - DE
+host = 129.250.3.253
+
++++ lon
+menu = London - GB
+title = London - GB
+host = 129.250.4.226
+
++++ mad
+menu = Madrid - ES
+title = Madrid - ES
+host = 129.250.2.235
+
++++ mxp
+menu = Milan - IT
+title = Milan - IT
+host = 129.250.4.170
+
++++ muc
+menu = Munich - DE
+title = Munich - DE
+host = 129.250.4.97
+
++++ cdg
+menu = Paris - FR
+title = Paris - FR
+host = 129.250.0.25
+
++++ sof
+menu = Sofia - BU
+title = Sofia - BU
+host = 129.250.3.25
+
++++ arn
+menu = Stockholm - SE
+title = Stockholm - SE
+host = 129.250.6.246
+
++++ vlc
+menu = Valencia - ES
+title = Valencia - ES
+host = 129.250.3.153
+
++++ vie
+menu = Vienna - AT
+title = Vienna - AT
+host = 129.250.6.19
+
++++ waw
+menu = Warsaw - PL
+title = Warsaw - PL
+host = 129.250.4.78
+
+++ Asia
+menu = Asia
+title = NTT Asia via LAX
+host =  /ntt/Asia/bwn /ntt/Asia/hkg /ntt/Asia/cgk \
+	/ntt/Asia/kul /ntt/Asia/kix /ntt/Asia/icn \
+        /ntt/Asia/qpg /ntt/Asia/tsa /ntt/Asia/tyo
+
++++ bwn
+menu = Brunei Darussalam - BN
+title = Brunei Darussalam - BN
+host = 129.250.0.130
+
++++ hkg
+menu = Hong Kong - HK
+title = Hong Kong - HK
+host = 129.250.2.33
+
++++ cgk
+menu = Jakarta - ID
+title = Jakarta - ID
+host = 129.250.0.188
+
++++ kul
+menu = Kuala Lumpur - MY
+title = Kuala Lumpur - MY
+host = 129.250.0.8
+
++++ kix
+menu = Osaka - JP
+title = Osaka - JP
+host = 129.250.0.131
+
++++ icn
+menu = Seoul - KR
+title = Seoul - KR
+host = 129.250.0.103
+
++++ qpg
+menu = Singapore - SG
+title = Singapore - SG
+host = 129.250.0.50
+
++++ tsa
+menu = Taipei - TW
+title = Taipei - TW
+host = 129.250.0.87
+
++++ tyo
+menu = Tokyo - JP
+title = Tokyo - JP
+host = 129.250.1.1
+
+++ Australia
+menu = Australia
+title = NTT Australia via LAX
+host = /ntt/Australia/rse
+
++++ rse
+menu = Sydney - AU
+title = Sydney - AU
+host = 129.250.0.170

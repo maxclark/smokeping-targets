@@ -1,0 +1,138 @@
++ savvis
+menu = Savvis
+title = Savvis Communications
+#host = 208.173.55.225
+#alerts = bigloss,someloss,startloss
+
+++ NorthAmerica
+menu = North America
+title = Savvis North America via LAX
+#alerts = bigloss,someloss,startloss
+host =  /savvis/NorthAmerica/atl /savvis/NorthAmerica/chi /savvis/NorthAmerica/dal \
+	/savvis/NorthAmerica/den /savvis/NorthAmerica/sna /savvis/NorthAmerica/lax \
+        /savvis/NorthAmerica/jfk /savvis/NorthAmerica/wdc
+
++++ atl
+
+menu = Atlanta, GA
+title = Atlanta, GA
+#title = traffic.atlanta.savvis.net
+host = 208.172.64.11
+
+#+++ bos
+#
+#menu = Boston, MA
+#title = Boston, MA
+##title = traffic.boston.savvis.net
+#host = 208.172.48.11
+
++++ chi
+
+menu = Chicago, IL
+title = Chicago, IL
+#title = traffic.chicago.savvis.net
+host = 208.172.0.11
+
++++ dal
+
+menu = Dallas, TX
+title = Dallas, TX
+#title = traffic.dallas.savvis.net
+host = 208.172.128.11
+
++++ den
+
+menu = Denver, CO
+title = Denver, CO
+#title = traffic.denver.savvis.net
+host = 208.172.160.11
+
++++ lax
+
+menu = Los Angeles, CA
+title = Los Angeles, CA
+#title = traffic.losangeles.savvis.net
+host = 208.172.33.17
+
+#+++ mia
+#
+#menu = Miami, FL
+#title = Miami, FL
+##title = traffic.miami.savvis.net
+#host = 208.172.96.11
+
++++ jfk
+
+menu = New York, NY
+title = New York, NY
+#title  = traffic.newyork.savvis.net
+host = 208.175.109.15
+
+#+++ phi
+#
+#menu = Philadelphia, PA
+#title = Philadelphia, PA
+##title = traffic.philadelphiaphy.savvis.net
+#host = 208.172.17.11
+
+#+++ phx
+#
+#menu = Phoenix, AZ
+#title = Phoenix, AZ
+##title = traffic.phoenix3px.savvis.net
+#host = 208.172.225.2
+
+#+++ sea
+#
+#menu = Seattle, WA
+#title = Seattle, WA
+##title = traffic.seattle.savvis.net
+#host = 208.172.80.11
+
++++ sna
+
+menu = Irvine, CA
+title = Irvine, CA
+#title = traffic.irvine2oc2.savvis.net
+host = 216.177.72.82
+
+#+++ yyz
+#
+#menu = Toronto, Canada
+#title = Toronto, Canada
+##title = traffic.toronto.savvis.net
+#host = 208.172.80.11
+
++++ wdc
+
+menu = Washington, DC
+title = Washington, DC
+#title = traffic.washington.savvis.net
+host = 206.24.224.11
+
+#++ Europe
+#
+#menu = Europe
+#title = Savvis Europe via LAX
+#host =  /savvis/Europe/fra /savvis/Europe/lon /savvis/Europe/cdg
+#
+#+++ fra
+#
+#menu = Frankfurt, DE
+#title = Frankfurt, DE
+##title = traffic.frankfurtfrx.savvis.net
+#host = 208.174.56.43
+#
+#+++ lon
+#
+#menu = London, UK
+#title = London, UK
+##title = traffic.londonlnx.savvis.net
+#host = 206.24.168.43
+#
+#+++ cdg
+#
+#menu = Paris, France
+#title = Paris, France
+##title = traffic.parisprx.savvis.net
+#host = 208.175.184.43

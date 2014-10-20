@@ -1,0 +1,467 @@
++ level3
+menu = Level3
+title = Level3 Communications
+#host = 4.78.195.17
+
+++ NorthAmerica
+menu = North America
+title = Level3 North America via LAX
+#alerts = bigloss,someloss,startloss
+host =  /level3/NorthAmerica/atl /level3/NorthAmerica/bwi /level3/NorthAmerica/bos \
+	/level3/NorthAmerica/btr /level3/NorthAmerica/clt /level3/NorthAmerica/cho \
+	/level3/NorthAmerica/chi /level3/NorthAmerica/cvg /level3/NorthAmerica/cle \
+	/level3/NorthAmerica/cmh /level3/NorthAmerica/dal /level3/NorthAmerica/den \
+	/level3/NorthAmerica/dtw /level3/NorthAmerica/fll /level3/NorthAmerica/rsw \
+	/level3/NorthAmerica/mdt /level3/NorthAmerica/hou /level3/NorthAmerica/jan \
+	/level3/NorthAmerica/jax /level3/NorthAmerica/mci /level3/NorthAmerica/las \
+	/level3/NorthAmerica/lex /level3/NorthAmerica/lit /level3/NorthAmerica/sdf \
+	/level3/NorthAmerica/mia /level3/NorthAmerica/msp /level3/NorthAmerica/mob \
+	/level3/NorthAmerica/yul /level3/NorthAmerica/bna /level3/NorthAmerica/ewr \
+	/level3/NorthAmerica/jfk /level3/NorthAmerica/oak /level3/NorthAmerica/mco \
+	/level3/NorthAmerica/phi /level3/NorthAmerica/phx /level3/NorthAmerica/pit \
+	/level3/NorthAmerica/rdu /level3/NorthAmerica/ric /level3/NorthAmerica/stl \
+	/level3/NorthAmerica/sac /level3/NorthAmerica/slc /level3/NorthAmerica/san \
+	/level3/NorthAmerica/sfo /level3/NorthAmerica/sjc /level3/NorthAmerica/sea \
+	/level3/NorthAmerica/stamford /level3/NorthAmerica/tpa /level3/NorthAmerica/tustin \
+	/level3/NorthAmerica/wdc
+
++++ atl
+menu = Atlanta, GA
+title = Atlanta, GA
+#title =
+host = 209.244.3.2
+
++++ bwi
+menu = Baltimore, MD
+title = Baltimore, MD
+#title =
+host = 209.247.2.67
+
++++ bos
+menu = Boston, MA
+title = Boston, MA
+#title =
+host = 209.244.3.33
+
++++ btr
+menu = Batton Rouge, LA
+title = Batton Rouge, LA
+host = 4.69.186.130
+
++++ clt
+menu = Charlotte, NC
+title = Charlotte, NC
+#title = lo-22.car1.Charlotte1.Level3.net.
+host = 4.69.181.226 
+
++++ cho
+menu = Charlottesville, VA
+title = Charlottesville, VA
+host = 4.69.183.16
+
++++ chi
+menu = Chicago, IL
+title = Chicago, IL
+#title =
+host = 4.69.185.130
+
++++ cvg
+menu = Cincinatti, OH
+title = Cincinatti, OH
+#title =
+host = 4.69.181.163
+
++++ cle
+menu = Cleveland, OH
+title = Cleveland, OH
+host = 4.69.181.194
+
++++ cmh
+menu = Columbus, OH
+title = Columbus, OH
+host = 4.69.181.69
+
++++ dal
+menu = Dallas, TX
+title = Dallas, TX
+#title = lo-22.car1.Dallas1.Level3.net.
+host = 4.69.185.162
+
++++ den
+menu = Denver, CO
+title = Denver, CO
+#title =
+host = 209.244.2.114
+
++++ dtw
+menu = Detroit, MI
+title = Detroit, MI
+host = 4.69.182.4
+
++++ fll
+menu = Fort Lauderdale, FL
+title = Fort Lauderdale, FL
+host = 4.69.182.136
+
++++ rsw
+menu = Fort Myers, FL
+title = Fort Myers, FL
+host = 4.69.182.135
+
++++ mdt
+menu = Harrisburg, PA
+title = Harrisburg, PA
+host = 4.69.181.73
+
++++ hou
+menu = Houston, TX
+title = Houston, TX
+#title =
+host = 4.69.182.64
+
++++ jan
+menu = Jackson, MS
+title = Jackson, MS
+host = 4.69.182.69
+
++++ jax
+menu = Jacksonville, FL
+title = Jacksonville, FL
+host = 4.69.185.73
+
++++ mci
+menu = Kansas City, MO
+title = Kansas City, MO
+host = 4.69.181.32
+
++++ las
+menu = Las Vegas, NV
+title = Las Vegas, NV
+#title =
+host = 4.69.182.98
+
++++ lex
+menu = Lexington, KY
+title = Lexington, KY
+host = 4.69.181.70
+
++++ lit
+menu = Little Rock, AR
+title = Little Rock, AR
+host = 4.69.182.71
+
+#+++ lax
+#menu = Los Angeles, CA
+#title = Los Angeles, CA
+##title =
+#host = 4.78.195.17
+
++++ sdf
+menu = Louisville, KY
+title = Louisville, KY
+host = 4.69.181.71
+
++++ mia
+menu = Miami, FL
+title = Miami, FL
+##title =
+host = 4.69.182.131
+
++++ msp
+menu = Minneapolis, MN
+title = Minneapolis, MN
+host = 4.69.182.162
+
++++ mob
+menu = Mobile, AL
+title = Mobile, AL
+host = 4.69.185.75
+
++++ yul
+menu = Montreal, Canada
+title = Montreal, Canada
+host = 4.69.180.1
+
++++ bna
+menu = Nashville, TN
+title = Nashville, TN
+host = 4.69.185.76
+
++++ ewr
+menu = Newark, NJ
+title = Newark, NJ
+##title =
+host = 4.69.184.224
+
++++ jfk
+menu = New York, NY
+title = New York, NY
+#title  = lo-22.car1.NewYork1.Level3.net.
+host = 4.69.185.1
+
++++ oak
+menu = Oakland, CA
+title = Oakland, CA
+#title = lo-22.car1.Oakland1.Level3.net.
+host = 4.69.182.194
+
++++ mco
+menu = Orlando, FL
+title = Orlando, FL
+#title =
+host = 209.247.3.131
+
++++ phi
+menu = Philadelphia, PA
+title = Philadelphia, PA
+#title =
+host = 209.244.2.130
+
++++ phx
+menu = Phoenix, AZ
+title = Phoenix, AZ
+#title =
+host = 4.69.183.32
+
++++ pit
+menu = Pittsburgh, PA
+title = Pittsburgh, PA
+host = 4.69.181.64
+
++++ rdu
+menu = Raleigh, NC
+title = Raleigh, NC
+#title =
+host = 4.69.183.66
+
++++ ric
+menu = Richmond, VA
+title = Richmond, VA
+#title =
+host = 209.244.44.3
+
++++ stl
+menu = Saint Louis, MO
+title = Saint Louis, MO
+host = 4.69.184.34
+
++++ sac
+menu = Sacramento, CA
+title = Sacramento, CA
+#title =
+host = 4.69.183.130
+
++++ slc
+menu = Salt Lake City, UT
+title = Salt Lake City, UT
+#title =
+host = 4.69.184.3
+
++++ san
+menu = San Diego, CA
+title = San Diego, CA
+#title =
+host = 4.69.183.197
+
++++ sfo
+menu = San Francisco, CA
+title = San Francisco, CA
+#title =
+host = 4.69.183.233
+
++++ sjc
+menu = San Jose, CA
+title = San Jose, CA
+#title = lo-22.car1.SanJose1.Level3.net.
+host = 4.69.185.226
+
++++ sea
+menu = Seattle, WA
+title = Seattle, WA
+#title = lo-22.car1.Seattle1.Level3.net.
+host = 4.69.184.192
+
++++ stamford
+menu = Stamford, CT
+title = Stamford, CT
+#title =
+host = 209.247.2.195
+
++++ tpa
+menu = Tampa, FL
+title = Tampa, FL
+#title =
+host = 4.69.184.96
+
++++ tustin
+menu = Tustin, CA
+title = Tustin, CA
+#title =
+host = 4.69.184.131
+
++++ wdc
+menu = Washington, DC
+title = Washington, DC
+#title = lo-22.car1.Washington1.Level3.net.
+host = 4.69.185.34
+
+#+++ weehawken
+#menu = Weehawken, NJ
+#title = Weehawken, NJ
+##title =
+#host = 209.247.2.13
+
+++ Europe
+
+menu = Europe
+title = Level3 Europe via LAX
+host =  /level3/Europe/ams /level3/Europe/txl /level3/Europe/bru \
+        /level3/Europe/dub /level3/Europe/dus /level3/Europe/fra \
+        /level3/Europe/gva /level3/Europe/ham /level3/Europe/lon \
+        /level3/Europe/man /level3/Europe/mad /level3/Europe/lin \
+        /level3/Europe/munich /level3/Europe/cdg /level3/Europe/prague \
+        /level3/Europe/sofia /level3/Europe/stockholm /level3/Europe/vienna \
+        /level3/Europe/warsaw /level3/Europe/zrh
+
++++ ams
+
+menu = Amsterdam, Netherlands
+title = Amsterdam, Netherlands
+host = 4.69.186.130
+
++++ txl
+menu = Berlin, Germany
+title = Berlin, Germany
+host = 4.69.186.162
+
++++ bucharest
+menu = Bucharest, Romania
+title = Bucharest, Romania
+host = 4.69.176.192
+
++++ bru
+menu = Brussels, Belgium
+title = Brussels, Belgium
+host = 4.69.186.197
+
+#+++ cph
+#
+#menu = Copenhagen, Denmark
+#title = Copenhagen, Denmark
+##title =
+#host = 213.242.107.19
+
++++ dub
+menu = Dublin, Ireland
+title = Dublin, Ireland
+host = 4.69.187.3
+
++++ dus
+menu = Dusseldorf, Germany
+title = Dusseldorf, Germany
+host = 4.69.186.96
+
++++ fra
+menu = Frankfurt, Germany
+title = Frankfurt, Germany
+host = 4.69.186.64
+
++++ gva
+menu = Geneva, Switzerland
+title = Geneva, Switzerland
+host = 4.69.187.34
+
++++ ham
+menu = Hamburg, Germany
+title = Hamburg, Germany
+host = 4.69.187.67
+
++++ lon
+menu = London, England
+title = London, England
+host = 4.69.186.1
+
++++ man
+menu = Manchester, England
+title = Manchester, England
+host = 4.69.187.132
+
++++ mad
+menu = Madrid, Spain
+title = Madrid, Spain
+host = 4.69.187.99
+
++++ lin
+menu = Milan, Italy
+title = Milan, Italy
+host = 4.69.187.163
+
++++ munich
+menu = Munich, Germany
+title = Munich, Germany
+host = 4.69.187.195
+
++++ cdg
+menu = Paris, France
+title = Paris, France
+host = 4.69.187.226
+
++++ prague
+menu = Prague, Czech Republic
+title = Prague, Czech Republic
+host = 4.69.177.98
+
++++ sofia
+menu = Sofia, Bulgaria
+title = Sofia, Bulgaria
+host = 4.69.176.224
+
++++ stockholm
+menu = Stockholm, Sweden
+title = Stockholm, Sweden
+host = 4.68.4.27
+
++++ vienna
+menu = Vienna, Austria
+title = Vienna, Austria
+host = 4.69.177.162
+
++++ warsaw
+menu = Warsaw, Poland
+title = Warsaw, Poland
+host = 4.69.177.192
+
++++ zrh
+menu = Zurich, Switzerland
+title = Zurich, Switzerland
+host = 4.69.177.227
+
+++ MiddleEast
+menu = Middle East
+title = Middle East
+host = 	/level3/MiddleEast/dxb /level3/MiddleEast/jed
+
++++ dxb
+menu = Dubai, United Arab Emirates
+title = Dubai, United Arab Emirates
+host = 4.69.179.33
+
++++ jed
+menu = Jeddah, Saudi Arabia
+title = Jeddah, Saudi Arabia
+host = 4.69.148.221
+
+++ Africa
+menu = Africa
+title = Africa
+host = 	/level3/Africa/cpt /level3/Africa/jnb
+
++++ cpt
+menu = Cape Town, South Africa
+title = Cape Town, South Africa
+host = 4.69.178.225
+
++++ jnb
+menu = Johannesburg, South Africa
+title = Johannesburg, South Africa
+host = 4.69.179.161
